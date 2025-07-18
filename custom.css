@@ -11,7 +11,7 @@ input:focus-visible{
 }
 
 .main {
-    background-color: #3498db;
+    background-color: #626b95;
     min-height: 100vh;
     display: flex;
     justify-content: center;
@@ -22,7 +22,7 @@ input:focus-visible{
     min-width: 400px;
     padding: 30px;
     box-shadow: 0 4 px 10px rgb(0 0 0/ 50%);
-    background: #2980b9;
+    background: #26183d;
     border-radius: 4px;
     margin-top: 10px;
 }
